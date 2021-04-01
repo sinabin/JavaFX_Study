@@ -1,0 +1,6 @@
+1. 클라이언트 변조 체킹
+2. 비인가 프로그램 실시간 탐지(ex : Cheat Engine, AutohotKey, Repacker)
+   :비인가 프로그램이 탐지될 경우 클라이언트 종료
+
+적용법
+Login 메소드 부분에 allowed =1 이고 localIPaddress가 존재할 때에만 접속가능하도록 수정

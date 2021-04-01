@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="AnimateFX-1.2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/AnimateFX-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jmetro-8.6.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-3.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-jpms-5.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-platform-jpms-5.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mariadb-java-client-2.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
